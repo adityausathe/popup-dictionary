@@ -1,0 +1,54 @@
+c:\users\rohit\documents\visual studio 2010\Projects\PopupDictionary\PopupDictionary\bin\Debug\PopupDictionary.exe
+c:\users\rohit\documents\visual studio 2010\Projects\PopupDictionary\PopupDictionary\bin\Debug\PopupDictionary.pdb
+c:\users\rohit\documents\visual studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.Properties.Resources.resources
+c:\users\rohit\documents\visual studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.csproj.GenerateResource.Cache
+c:\users\rohit\documents\visual studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.exe
+c:\users\rohit\documents\visual studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.pdb
+C:\Users\ROHIT\Documents\Visual Studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.csprojResolveAssemblyReference.cache
+C:\Users\ROHIT\Documents\Visual Studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.ControlPanel.resources
+C:\Users\ROHIT\Documents\Visual Studio 2010\Projects\PopupDictionary\PopupDictionary\obj\x86\Debug\PopupDictionary.PopupWindow.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\bin\Debug\PopupDictionary.exe
+C:\Users\Aditya Sathe\Documents\PopupDictionary\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.ControlPanel.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.PopupWindow.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.Properties.Resources.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.csproj.GenerateResource.Cache
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.exe
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.pdb
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Aditya Sathe\Documents\PopupDictionary\bin\Debug\PopupDictionary.exe.manifest
+C:\Users\Aditya Sathe\Documents\PopupDictionary\bin\Debug\PopupDictionary.application
+C:\Users\Aditya Sathe\Documents\PopupDictionary\bin\Debug\PopupDictionary.pdb
+C:\Users\Aditya Sathe\Documents\PopupDictionary\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.exe.manifest
+C:\Users\Aditya Sathe\Documents\PopupDictionary\obj\x86\Debug\PopupDictionary.application
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.exe
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.pdb
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\bin\Debug\PopupDictionary.exe.manifest
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\bin\Debug\PopupDictionary.application
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\bin\Debug\PopupDictionary.exe
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\bin\Debug\PopupDictionary.pdb
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.ControlPanel.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.PopupWindow.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.Properties.Resources.resources
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.csproj.GenerateResource.Cache
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.exe.manifest
+C:\Users\Aditya Sathe\Documents\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.application
+C:\Users\aditya\Downloads\PopupDictionary\DATA\bin\Debug\PopupDictionary.exe.manifest
+C:\Users\aditya\Downloads\PopupDictionary\DATA\bin\Debug\PopupDictionary.application
+C:\Users\aditya\Downloads\PopupDictionary\DATA\bin\Debug\PopupDictionary.exe
+C:\Users\aditya\Downloads\PopupDictionary\DATA\bin\Debug\PopupDictionary.pdb
+C:\Users\aditya\Downloads\PopupDictionary\DATA\bin\Debug\System.Data.SQLite.xml
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.csprojAssemblyReference.cache
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.ControlPanel.resources
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.PopupWindow.resources
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.Properties.Resources.resources
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.csproj.GenerateResource.cache
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.csproj.CoreCompileInputs.cache
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.exe.manifest
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.application
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.csproj.CopyComplete
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.exe
+C:\Users\aditya\Downloads\PopupDictionary\DATA\obj\x86\Debug\PopupDictionary.pdb
