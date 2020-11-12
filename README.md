@@ -1,4 +1,5 @@
-# :warning: Historical Project
+### :heavy_check_mark: Working
+### :warning: Historical Project
 This app was developed as an undergraduate mini-project. Its source-code does not adhere to standard conventions/practices and needs refactoring.
 
 # Information
