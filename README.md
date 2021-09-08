@@ -1,8 +1,9 @@
+# Popup Dictionary
+
 ### :heavy_check_mark: Working
 ### :warning: Historical Project
 This app was developed as an undergraduate mini-project. Its source-code does not adhere to standard conventions/practices and needs refactoring.
 
-# Popup Dictionary
 ## Functionality
 - This productivity enhancement tools was developed to help users quickly lookup meanings, pronunciation of words while they are reading, without changing the context. 
 - The app works irrespective of specific application the user is currently using.
